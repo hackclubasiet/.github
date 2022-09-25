@@ -6,6 +6,17 @@
 
 > Hack Club ASIET was established in August 2019. It is the first Hack Club chapter in the Kerala region. It was formed with an aim of motivating the students to take up coding and building projects and instil technological knowledge among them in an enjoyable manner. The base working location of the club is Adi Shankara Institute of Engineering and Technology, Kalady
 
+
+> Hack Club ASIET currently has about 250+ members and functions most effectively with active participation from the members.
+
+<h3 align="center">
+  Excom Team
+</h3>
+
+<!-- <h2 align="center>
+ <img src="https://drive.google.com/uc?export=view&id=1G8ze78csDVS5ikyku5spgMx4pUjVhHM5" align="center" width="70" height="70" />
+</h2> -->
+
 <h3 align="center">
   Contact Details
  </h3>
