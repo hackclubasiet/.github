@@ -9,11 +9,11 @@
 
 > Hack Club ASIET currently has about 250+ members and functions most effectively with active participation from the members.
 
-<h3 align="center">
+<!-- <h3 align="center">
   Excom Team
 </h3>
 
-<!-- <h2 align="center>
+<h2 align="center>
  <img src="https://drive.google.com/uc?export=view&id=1G8ze78csDVS5ikyku5spgMx4pUjVhHM5" align="center" width="70" height="70" />
 </h2> -->
 
