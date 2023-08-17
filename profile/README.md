@@ -1,65 +1,97 @@
 <h3 align="center">
-  About
+  HACK CLUB ASIET
 </h3>
 
-> Hack Club ASIET is a community for young eager learners and coders to collaborate, build and create innovative projects and ideas. It is a wonderful platform for youngsters to get to know each other, work together and network effectively.
+  > Hack Club ASIET serves as a vibrant community where young, enthusiastic learners and coders come together to collaborate, craft, and innovate through exciting projects and concepts. This platform acts as a remarkable avenue for youth to establish connections, pool their talents, and foster productive partnerships.
 
-> Hack Club ASIET was established in August 2019. It is the first Hack Club chapter in the Kerala region. It was formed with an aim of motivating the students to take up coding and building projects and instil technological knowledge among them in an enjoyable manner. The base working location of the club is Adi Shankara Institute of Engineering and Technology, Kalady
+  > Established in August 2019, Hack Club ASIET stands as a pioneering chapter in the realm of Hack Clubs within Kerala. With a clear vision, it was conceived to ignite the spark of coding and project development in students, while seamlessly imparting technological wisdom in an engaging and delightful manner. The club's operational hub is situated at Adi Shankara Institute of Engineering and Technology, Kalady.
 
 
-> Hack Club ASIET currently has about 250+ members and functions most effectively with active participation from the members.
+  > Having blossomed since its inception, Hack Club ASIET boasts an ever-growing membership, numbering over 250. The club's strength thrives on the active involvement of its members, which plays a pivotal role in ensuring its effective functioning and impact.
 
 <h3 align="center">
-  Excom Team
+  HACK CLUB ASIET EXECOM TEAM 2023-24
 </h3>
 
 <h2 align="center">
- <img src="https://drive.google.com/uc?export=view&id=1WXiumqwVYjpwsShB1sclXZWPFZg4khoN" align="center" width="80" height="80" /> <br>
- <img src="https://img.shields.io/badge/Kshama%20P%20Kammath-white?style=for-the-badge&logoColor=white" /> <br>
- <img src="https://img.shields.io/badge/Campus%20Lead-white?style=for-the-badge&logoColor=white" />
+  &nbsp;
+  <img src="https://drive.google.com/uc?export=view&id=1-7V5E9bI-mN8BVW32f0bZMmD54DAqcyG" align="center" width="90" height="90" /> <br>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Akshitha%20Balan-red?style=for-the-badge&logoColor=white" /> <br>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Campus%20Lead-red?style=for-the-badge&logoColor=white" />
+</h2> 
+
+<!-- Second set of images and names -->
+<h2 align="center">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://drive.google.com/uc?export=view&id=1TtZhwuTHMI5xNbz6GFNvxkhxdI0j5kch" align="center" width="90" height="90" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://drive.google.com/uc?export=view&id=1J3Qh8J6IOopLeP1gG2fKY99bFD8D1IkB" align="center" width="90" height="90" /> <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Insha%20Nourin%20Sulbi-green?style=for-the-badge&logoColor=white"  /> 
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Brahmaduttan%20Namboodiripad-green?style=for-the-badge&logoColor=white"  /><br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Program%20Lead-green?style=for-the-badge&logoColor=white" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Co%20Program%20Lead-green?style=for-the-badge&logoColor=white"  />
+</h2> 
+
+<!-- Third set of images and names -->
+<h2 align="center">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://drive.google.com/uc?export=view&id=1IOUq75vs3JXEuSJaj0Sq7GSmrrCcPpCR" align="center" width="90" height="90" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://drive.google.com/uc?export=view&id=1F1g-a2XcL2iaXj8I4wDrTqbXtbJu8mos" align="center" width="90" height="90" /> <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Abhinand%20K%20Prasad-yellow?style=for-the-badge&logoColor=white"  /> 
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Swathi%20Dinesh-yellow?style=for-the-badge&logoColor=white"  /><br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Technical%20Lead%20-yellow?style=for-the-badge&logoColor=white" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/CO%20Technical%20Lead-yellow?style=for-the-badge&logoColor=white"  />
 </h2> 
 
 <h2 align="center">
- <img src="https://drive.google.com/uc?export=view&id=1CpnEVRWSKqDbQieLIXHNu0NSClBPZ0dW"  width="80" height="80" />
+  &nbsp;
+  <img src="https://drive.google.com/uc?export=view&id=116iHYyfKnzyJF3iX0Y9YaP67h_4uaFnO" align="center" width="90" height="90" /> <br>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Nanditha%20Nambiar-blue?style=for-the-badge&logoColor=white" /> <br>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Documentation%20Lead-blue?style=for-the-badge&logoColor=white" />
+</h2> 
+
+<h2 align="center">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://drive.google.com/uc?export=view&id=154NvSr8EpLf_NqvNwpclqMlhUnpEv67c" align="center" width="90" height="90" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <img src="https://drive.google.com/uc?export=view&id=174-JG9BKSFz34ByviosT0SwAcRUzDlBi" width="80" height="80" /> <br>
- 
- <img src="https://img.shields.io/badge/Dyna%20Joshy-yellow?style=for-the-badge&logoColor=white"  /> 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/Aaron%20P%20Laju-blue?style=for-the-badge&logoColor=white"  /><br>
- 
- <img src="https://img.shields.io/badge/Project%20Lead-yellow?style=for-the-badge&logoColor=white" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://drive.google.com/uc?export=view&id=1fkTWhmdFJnaM1U6Adx_VGwNrjUMw1dXx" align="center" width="90" height="90" /> <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Amaldev%20Suresh-pink?style=for-the-badge&logoColor=white"  /> 
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Akshara%20Balan-pink?style=for-the-badge&logoColor=white"  /><br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Networking%20Lead%20-pink?style=for-the-badge&logoColor=white" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/Technical%20Lead-blue?style=for-the-badge&logoColor=white"  />
-</h2> 
-
-<h2 align="center">
- <img src="https://drive.google.com/uc?export=view&id=1X95GqJ5C0QwvDTH-hKFoRYPIfehLuyBH" align="center" width="80" height="80" /> <br>  
- <img src="https://img.shields.io/badge/Devarsh%20Raman-darkred?style=for-the-badge&logoColor=white" /> <br>
- <img src="https://img.shields.io/badge/Graphic%20Lead-darkred?style=for-the-badge&logoColor=white" />
-</h2> 
-
-<h2 align="center">
- <img src="https://drive.google.com/uc?export=view&id=1u0IfTREoftM3Rpw2vu0HWx4dPXD6tUDO"  width="80" height="80" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <img src="https://drive.google.com/uc?export=view&id=1mAs5OIu_UqQZfK65tTkQp4nSn7NUEW4n" width="80" height="80" /> <br>
- 
-  &nbsp;&nbsp;<img src="https://img.shields.io/badge/Athul%20Krishna-grey?style=for-the-badge&logoColor=white"  /> 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/Archana%20Delip-black?style=for-the-badge&logoColor=white"  /><br>
- <img src="https://img.shields.io/badge/Social%20Media%20Lead-grey?style=for-the-badge&logoColor=white" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/Program%20Lead-black?style=for-the-badge&logoColor=white"  />
+  <img src="https://img.shields.io/badge/Design%20Lead-pink?style=for-the-badge&logoColor=white"  />
 </h2> 
 
-<h3 align="center">
-  Contact Details
+  <h3 align="center">
+  CONTACT US
  </h3>
 
 <p align='center'>
@@ -76,7 +108,7 @@
   </a>
   
 <h3 align="center">
-  Sponser
+  SPONSORED BY
 </h3>
 
 <h2 align="center">
